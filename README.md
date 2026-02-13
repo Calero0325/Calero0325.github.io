@@ -66,7 +66,7 @@ Edit the `site.config.mts` file to update your personal information:
 export default {
   title: 'SR',
   favicon: 'favicon.ico',
-  owner: 'Sara Richard',
+  owner: 'Samuel Calero',
   // ... Other configurations
 };
 ```

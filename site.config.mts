@@ -10,7 +10,7 @@ export interface SocialLink {
 export default {
 	title: 'SR',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'Samuel Calero',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
